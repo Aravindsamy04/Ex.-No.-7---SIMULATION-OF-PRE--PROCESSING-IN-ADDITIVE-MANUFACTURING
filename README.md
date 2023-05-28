@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![empd 7](https://github.com/Aravindsamy04/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497037/71c3e282-2368-4deb-ac14-bb8fce9f1b05)
+
+
+### Name:ARAVINDSAMY.P
+### Register Number:212222230011
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
